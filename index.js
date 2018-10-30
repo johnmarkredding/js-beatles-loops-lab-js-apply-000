@@ -21,7 +21,7 @@ function iLoveTheBeatles(n) {
   let resultArray = [];
   
   do {
-    
+    resultArray.push("I love the Beatles!");
   } while(resultArray === []);
   
 }

@@ -16,3 +16,12 @@ function johnLennonFacts(facts) {
   }
   return facts;
 }
+
+function iLoveTheBeatles(n) {
+  let resultArray = [];
+  
+  do {
+    
+  } while(resultArray === []);
+  
+}
